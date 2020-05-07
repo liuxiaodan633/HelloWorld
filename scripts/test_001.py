@@ -17,7 +17,7 @@ class Test_Abc:
     @allure.severity(allure.severity_level.TRIVIAL)
     def test_abc_002(self):
         allure.attach("这是第二个一个描述","试一下2")
-        assert 0
+        assert 1
 
     # def test_cdf_002(self):
     #     assert 0
