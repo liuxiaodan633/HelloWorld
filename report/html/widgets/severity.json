@@ -1,0 +1,21 @@
+[ {
+  "uid" : "caf5a67c03461c0",
+  "name" : "test_abc_001",
+  "time" : {
+    "start" : 1588763277309,
+    "stop" : 1588763277310,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "6f984a72a87c0753",
+  "name" : "test_abc_002",
+  "time" : {
+    "start" : 1588763277312,
+    "stop" : 1588763277313,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "trivial"
+} ]
